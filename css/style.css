@@ -64,6 +64,7 @@ to{width:var(--percent)}
     transform: translateX(452px);
     background-color:#4a4372
     ;
+    color: white;
     z-index: 100 ;
 }
 .button {
