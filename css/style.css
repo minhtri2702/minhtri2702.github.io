@@ -44,4 +44,22 @@ to{width:var(--percent)}
 .header{flex-direction:column-reverse}
 .cv_ava{margin-bottom:1rem}
 .main{flex-direction:column}
+
 }
+.classBTN{
+    position: fixed;
+    bottom: 0;
+    right: 17px;
+    width: 150px;
+    background-color:#4a4372
+    ;
+    z-index: 100;
+}
+.button {
+    transition-duration: 0.4s;
+  }
+  
+  .button:hover {
+    background-color:#4a4372;
+    color: white;
+  }
